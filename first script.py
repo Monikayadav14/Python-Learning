@@ -6,3 +6,4 @@ for i in my_list1:
 		print "inside"
 	else:
 		print "outside"
+		print "More far from City border"
